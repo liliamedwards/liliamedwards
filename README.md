@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi! My name is Lilia Edwards.</h1>
+<h3 align="center">I am a junior at James Madison University pursuing a BBA in Marketing with a concentration in Digital Marketing and European Business! I am especially passionate about blending creativity with strategy, whether that’s through marketing campaigns, data analysis, or content creation.</h3>
 
-<!--
-**liliamedwards/liliamedwards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am currently working on **creating recruitment content for Kappa Alpha Theta to highlight values and engage potential new members Engineering**
 
-Here are some ideas to get you started:
+- 🌱 I am currently learning **how to analyze marketing case studies through the American Marketing Association**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **my marketing initiatives and design work with Legacy Engineering**
+
+- 📫 How to reach me **lmedwards918@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/liliamedwards/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/liliamedwards/" height="30" width="40" /></a>
+</p>
+
