@@ -8,10 +8,9 @@
 - 💬 Ask me about **my marketing initiatives and design work with Legacy Engineering.**
 
 - 📫 How to reach me **lmedwards918@gmail.com**
-images/githublogo.png.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/liliamedwards/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/liliamedwards/" height="30" width="40" /></a>
 </p>
-
-
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo")
