@@ -1,4 +1,4 @@
-<h1 align="center">Hi, my name is Lilia Edwards!</h1>
+<h1 align="center">Hi, my name is Lilia Edwards!💁‍♀️</h1>
 <h3 align="center">I am a junior at James Madison University pursuing a BBA in Marketing with a concentration in Digital Marketing and European Business! I am especially passionate about blending creativity with strategy, whether that’s through marketing campaigns, data analysis, or content creation.</h3>
 
 - 🔭 I am currently working on **creating recruitment content for Kappa Alpha Theta to highlight values and engage potential new members.**
