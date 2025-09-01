@@ -1,11 +1,11 @@
 <h1 align="center">Hi! My name is Lilia Edwards.</h1>
 <h3 align="center">I am a junior at James Madison University pursuing a BBA in Marketing with a concentration in Digital Marketing and European Business! I am especially passionate about blending creativity with strategy, whether that’s through marketing campaigns, data analysis, or content creation.</h3>
 
-- 🔭 I am currently working on **creating recruitment content for Kappa Alpha Theta to highlight values and engage potential new members Engineering**
+- 🔭 I am currently working on **creating recruitment content for Kappa Alpha Theta to highlight values and engage potential new members Engineering.**
 
-- 🌱 I am currently learning **how to analyze marketing case studies through the American Marketing Association**
+- 🌱 I am currently learning **how to analyze marketing case studies through the American Marketing Association.**
 
-- 💬 Ask me about **my marketing initiatives and design work with Legacy Engineering**
+- 💬 Ask me about **my marketing initiatives and design work with Legacy Engineering.**
 
 - 📫 How to reach me **lmedwards918@gmail.com**
 
